@@ -3,6 +3,8 @@ import Link from "next/link";
 import Image from "next/image";
 
 export default function Home() {
+  // will postpone this for some days
+
   return (
     <div className="container">
       <Head>
